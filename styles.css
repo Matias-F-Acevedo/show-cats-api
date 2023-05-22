@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(250, 224, 191);
+}
+
+
+.title {
+    background-color: rgb(226, 151, 52);
+    text-align: center;
+    border: black 2px solid ;
+    font-family: 'Pangolin', cursive;
+    border-radius: 10px;
+}
+
+p {
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    
+}
+
+
+img {
+    margin: 5px;
+    width: 150px;
+    height: 150px;
+    border: black 1px solid;
+    filter: drop-shadow(2px 4px 6px black) ;
+    border-radius: 8px;
+}
